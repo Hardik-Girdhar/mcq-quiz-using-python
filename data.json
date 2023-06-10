@@ -1,0 +1,48 @@
+{
+  "question": [
+    "Q1. Who developed Python Programming Language?",
+    "Q2. Which of the following is used to define a block of code in Python?",
+    "Q3. Which of the following is not a type of inheritance?",
+    "Q4. Which of the following is not a core data type in Python?",
+    "Q5. What arithmetic operators cannot be used with strings in Python??"
+  ],
+  "answer": [
+    1,
+    2,
+    3,
+    4,
+    2
+  ],
+  "options": [
+    [
+      "Guido van Rossum",
+      "Wick van Rossum",
+      "Rasmus Lerdorf",
+      "Niene Stom"
+    ],
+    [
+      "Key",
+      "Indentation",
+      "Brackets",
+      "All of the mentioned"
+    ],
+    [
+      "Multi-level",
+      "Single-level",
+      "Double-Level",
+      "Multiple"
+    ],
+    [
+      "Tuples",
+      "Dictionary",
+      "Lists",
+      "Class"
+    ],
+    [
+      "*",
+      "-",
+      "+",
+      "All of the mentioned"
+    ]
+  ]
+}
